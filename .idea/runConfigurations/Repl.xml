@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Repl" type="HaskellStackConfigurationType" factoryName="Haskell Stack REPL" show_console_on_std_err="false" show_console_on_std_out="false">
+    <module name="HaskellGA" />
+    <option name="stackArgs" value="" />
+    <option name="stackTarget" value="HaskellGA:lib" />
+    <option name="workingDirPath" value="$PROJECT_DIR$" />
+    <method />
+  </configuration>
+</component>

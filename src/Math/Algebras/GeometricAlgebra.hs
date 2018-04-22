@@ -218,5 +218,3 @@ instance Functor (Multivector n) where
 mapSnd :: (a -> b) -> (c, a) -> (c, b)
 mapSnd f (x, y) = (x, f y)
 
-someFunc :: IO ()
-someFunc = putStrLn "someFunc Output"

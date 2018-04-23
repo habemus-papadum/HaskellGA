@@ -1,5 +1,4 @@
 .stack-work/
-HaskellGA.cabal
 *~
 .idea/workspace.xml
 notebooks/.ipynb_checkpoints
